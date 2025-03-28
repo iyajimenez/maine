@@ -60,7 +60,6 @@
         <li>Taking pictures of sunset</li>
         <li>Learning New Languages</li>
         <li>Learning How to Cook</li
-        <li>Exploring Nature</li>
         <li>Watching Anime</li>
     </ul>
 
