@@ -29,17 +29,6 @@
             padding: 0;
         }
         
-        }
-        li:hover {
-            transform: scale(1.05);
-        }
-        footer {
-            text-align: center;
-            margin-top: 50px;
-            font-size: 0.9em;
-            color: #777;
-        }
-    </style>
 </head>
 <body>
 
