@@ -28,14 +28,7 @@
             list-style-type: none;
             padding: 0;
         }
-        li {
-            background: #fff;
-            margin: 10px 0;
-            padding: 15px;
-            border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            transition: transform 0.2s;
-            color: #007BFF; /* Change the color of the hobbies here */
+        
         }
         li:hover {
             transform: scale(1.05);
@@ -59,7 +52,7 @@
     <ul>
         <li>Taking pictures of sunset</li>
         <li>Learning New Languages</li>
-        <li>Learning How to Cook</li
+        <li>Learning How to Cook</li>
         <li>Watching Anime</li>
     </ul>
 
